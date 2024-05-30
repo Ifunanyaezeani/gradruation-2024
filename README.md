@@ -18,7 +18,7 @@ Data Masters is accessible, user friendly, and makes it very easy for students t
 ## Accessing the Website
 You can access the website online by visiting the following URL:
 
-(https://datamasters.gygital.com)
+(https://datamaster.gygital.com)
 
 ## Technologies Used
 
